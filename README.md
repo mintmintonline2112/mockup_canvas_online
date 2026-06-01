@@ -10,7 +10,7 @@ global prefix `/api`).
 
 ## Stack
 
-| Layer | Công nghệ |
+| Layer |  Technical |
 |-------|-----------|
 | Frontend | React + TypeScript + Fabric.js + Tailwind CSS (Vite) |
 | Backend | NestJS (Node) |
@@ -24,8 +24,8 @@ Layer system: **Background → Template → Shadow → Product → Overlay**
 
 ```
 product-mockup-canvas/
-  backend/    NestJS + Prisma + PostgreSQL + Sharp   (xem backend/README.md)
-  frontend/   React + Vite + Fabric.js + Tailwind    (xem frontend/README.md)
+  backend/    NestJS + Prisma + PostgreSQL + Sharp   ( backend/README.md)
+  frontend/   React + Vite + Fabric.js + Tailwind    ( frontend/README.md)
 ```
 
 ## Chạy nhanh
