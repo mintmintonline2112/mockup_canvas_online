@@ -1,10 +1,10 @@
 # Product Mockup Canvas Tool
 
-Internal tool dựng mockup sản phẩm thủ công (giỏ/túi lục bình…) bằng **Fabric.js
-Canvas**, giữ ảnh sản phẩm làm **layer gốc** (không tái tạo bằng AI). Spec đầy đủ:
+Internal tool to create mockups of handmade products (water hyacinth baskets/bags...) using **Fabric.js
+Canvas**, keep the product image as the **original layer** (not recreated by AI). Full Specs:
 `product_mockup_canvas_mvp_structure.md`.
 
-Khung kế thừa pattern từ `google-stacking-nestjs` (monorepo backend/frontend,
+The framework inherits pattern from `google-stacking-nestjs` (monorepo backend/frontend,
 BaseService, TransformInterceptor, AllExceptionsFilter, ConfigModule, Swagger,
 global prefix `/api`).
 
